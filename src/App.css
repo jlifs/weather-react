@@ -34,3 +34,7 @@ li {
 li:first-letter {
   text-transform: capitalize;
 }
+
+footer {
+  text-align: center;
+}
